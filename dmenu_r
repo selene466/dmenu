@@ -1,0 +1,2 @@
+#!/bin/sh
+dmenu_run_history -c -m 0 -l 10 -p "  RUN: " -fn "Terminus:style=Bold:size=18"
